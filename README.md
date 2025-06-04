@@ -1,1 +1,1 @@
-# xray-image-captioning-using-GenAI
+# xray-image-Report-Generation-Using-GenAI

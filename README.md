@@ -1,1 +1,1 @@
-# xray-image-Report-Generation-Using-GenAI
+# Xray-Image-Report-Generation-Using-GenAI

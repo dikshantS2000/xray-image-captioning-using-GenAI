@@ -27,7 +27,7 @@ Output: Predicts fracture vs. non-fracture class labels.
 🚀 Getting Started
 1. Clone the repo
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/dikshantS2000/xray-image-captioning-using-GenAI.git
 cd your-repo-name
 ```
 2. Install requirements
